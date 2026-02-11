@@ -1,0 +1,146 @@
+{
+  "peanut": {
+    "type": "direct_allergen",
+    "terms": [
+      "peanut",
+      "groundnut",
+      "mungfali",
+      "groundnut oil",
+      "peanut oil",
+      "arachis",
+      "arachis oil",
+      "nut paste"
+    ]
+  },
+
+  "milk": {
+    "type": "direct_allergen",
+    "terms": [
+      "milk",
+      "milk solids",
+      "dairy",
+      "butter",
+      "butter oil",
+      "ghee",
+      "cream",
+      "cheese",
+      "curd",
+      "yogurt",
+      "whey",
+      "casein",
+      "lactose",
+      "skimmed milk powder",
+      "smp",
+      "ins 471",
+      "e471"
+    ],
+    "note": "INS 471 may be plant or dairy derived; treated as possible dairy for safety"
+  },
+
+  "gluten": {
+    "type": "direct_allergen",
+    "terms": [
+      "wheat",
+      "maida",
+      "atta",
+      "barley",
+      "rye",
+      "oats",
+      "semolina",
+      "suji",
+      "flour",
+      "cereal extract",
+      "hydrolyzed vegetable protein",
+      "hvp"
+    ]
+  },
+
+  "soy": {
+    "type": "direct_allergen",
+    "terms": [
+      "soy",
+      "soya",
+      "soybean",
+      "soy flour",
+      "soy protein",
+      "soy oil",
+      "textured vegetable protein",
+      "tvp",
+      "lecithin",
+      "ins 322",
+      "e322"
+    ],
+    "note": "INS 322 (lecithin) is commonly soy-derived in Indian products"
+  },
+
+  "egg": {
+    "type": "direct_allergen",
+    "terms": [
+      "egg",
+      "eggs",
+      "egg powder",
+      "egg solids",
+      "albumen",
+      "ovalbumin"
+    ]
+  },
+
+  "fish": {
+    "type": "direct_allergen",
+    "terms": [
+      "fish",
+      "fish oil",
+      "fish extract",
+      "anchovy",
+      "tuna",
+      "salmon"
+    ]
+  },
+
+  "shellfish": {
+    "type": "direct_allergen",
+    "terms": [
+      "shellfish",
+      "shrimp",
+      "prawn",
+      "crab",
+      "lobster"
+    ]
+  },
+
+  "tree_nuts": {
+    "type": "direct_allergen",
+    "terms": [
+      "almond",
+      "badam",
+      "cashew",
+      "kaju",
+      "pistachio",
+      "pista",
+      "walnut",
+      "akhrot",
+      "hazelnut"
+    ]
+  },
+
+  "generally_safe_additives": {
+    "type": "non_allergen",
+    "terms": [
+      "ins 330",
+      "e330",
+      "ins 500",
+      "ins 202",
+      "ins 412",
+      "ins 414"
+    ],
+    "note": "Generally safe additives; not mapped to allergens"
+  },
+
+  "sensitivity_related": {
+    "type": "conditional",
+    "terms": [
+      "ins 407"
+    ],
+    "note": "Carrageenan – may cause sensitivity but not a classical allergen"
+  }
+}

@@ -1,0 +1,550 @@
+[
+  {
+    "product_name": "MAGGI 2-Minute Masala Instant Noodles",
+    "ingredients": [
+      "Refined wheat flour (Maida)",
+      "Palm oil",
+      "Iodized salt",
+      "Wheat gluten",
+      "Thickeners (508 & 412)",
+      "Acidity regulators (501(i) & 500(i))",
+      "Humectant (451(i))",
+      "Spices and condiments (Onion powder, Coriander powder, Red chilli powder, Turmeric powder, Garlic powder, Cumin powder, Aniseed powder, Ginger powder, Fenugreek powder, Black pepper powder, Clove powder, Green cardamom powder, Nutmeg powder)",
+      "Hydrolysed groundnut protein",
+      "Sugar",
+      "Starch",
+      "Flavour enhancer (635)",
+      "Colour (150d)",
+      "Minerals"
+    ]
+  },
+  {
+    "product_name": "Sunfeast Yippee Magic Masala Noodles",
+    "ingredients": [
+      "Wheat flour (Maida)",
+      "Edible vegetable oil (Palmolein)",
+      "Salt",
+      "Stabilizers (508, 412)",
+      "Acidity regulators (501(i), 500(i))",
+      "Humectant (451(i))",
+      "Spices and condiments (Onion powder, Garlic powder, Red chilli powder, Turmeric powder, Coriander powder, Black pepper powder)",
+      "Flavour enhancers (627, 631)",
+      "Sugar",
+      "Hydrolysed vegetable protein",
+      "Colour (150d)"
+    ]
+  },
+  {
+    "product_name": "Top Ramen Curry Noodles",
+    "ingredients": [
+      "Wheat flour",
+      "Palm oil",
+      "Salt",
+      "Stabilizers (508, 412)",
+      "Acidity regulators (501(i), 500(i))",
+      "Humectant (451(i))",
+      "Spices and condiments",
+      "Sugar",
+      "Flavour enhancers (627, 631)",
+      "Colour (150d)"
+    ]
+  },
+  {
+    "product_name": "Parle-G Original Glucose Biscuits",
+    "ingredients": [
+      "Wheat flour",
+      "Sugar",
+      "Edible vegetable oils (Palm oil)",
+      "Invert sugar syrup",
+      "Milk solids",
+      "Raising agents (503(ii), 500(ii))",
+      "Salt",
+      "Emulsifier (322)",
+      "Artificial flavour (Vanilla)"
+    ]
+  },
+  {
+    "product_name": "Britannia Good Day Butter Biscuits",
+    "ingredients": [
+      "Wheat flour",
+      "Sugar",
+      "Edible vegetable oil (Palm oil)",
+      "Butter",
+      "Milk solids",
+      "Invert sugar syrup",
+      "Raising agents (503(ii), 500(ii))",
+      "Salt",
+      "Emulsifier (322)",
+      "Artificial flavour (Butter)"
+    ]
+  },
+  {
+    "product_name": "Hide & Seek Fab Chocolate Chip Cookies",
+    "ingredients": [
+      "Wheat flour",
+      "Sugar",
+      "Edible vegetable oil (Palm oil)",
+      "Chocolate chips (Sugar, Cocoa solids, Cocoa butter, Emulsifier (322))",
+      "Invert sugar syrup",
+      "Milk solids",
+      "Raising agents (503(ii), 500(ii))",
+      "Salt",
+      "Artificial flavour (Vanilla)"
+    ]
+  },
+  {
+    "product_name": "Britannia Marie Gold Biscuits",
+    "ingredients": [
+      "Wheat flour",
+      "Sugar",
+      "Palm oil",
+      "Invert sugar syrup",
+      "Raising agents (503(ii), 500(ii))",
+      "Salt",
+      "Emulsifier (322)",
+      "Artificial flavour (Vanilla)"
+    ]
+  },
+  {
+    "product_name": "Cadbury Dairy Milk Chocolate",
+    "ingredients": [
+      "Sugar",
+      "Milk solids",
+      "Cocoa butter",
+      "Cocoa solids",
+      "Emulsifiers (442, 476)",
+      "Flavour (Vanilla)"
+    ]
+  },
+  {
+    "product_name": "Nestle KitKat Chocolate",
+    "ingredients": [
+      "Sugar",
+      "Wheat flour",
+      "Milk solids",
+      "Cocoa butter",
+      "Vegetable fat",
+      "Cocoa solids",
+      "Emulsifier (322)",
+      "Raising agents (500(ii))",
+      "Artificial flavour (Vanilla)"
+    ]
+  },
+  {
+    "product_name": "Lays Classic Salted Potato Chips",
+    "ingredients": [
+      "Potatoes",
+      "Edible vegetable oil (Palmolein, Rice bran oil)",
+      "Salt"
+    ]
+  },
+  {
+    "product_name": "Kurkure Masala Munch",
+    "ingredients": [
+      "Corn meal",
+      "Rice meal",
+      "Gram meal",
+      "Edible vegetable oil (Palm oil)",
+      "Spices and condiments (Chilli powder, Onion powder, Garlic powder, Ginger powder, Coriander powder, Cumin powder)",
+      "Salt",
+      "Sugar",
+      "Flavour enhancers (627, 631)",
+      "Acidity regulator (330)",
+      "Colour (160c)"
+    ]
+  },
+  {
+    "product_name": "Bingo Mad Angles Achaari Masti",
+    "ingredients": [
+      "Corn meal",
+      "Edible vegetable oil (Palmolein)",
+      "Spices and condiments",
+      "Salt",
+      "Sugar",
+      "Flavour enhancers (627, 631)",
+      "Acidity regulator (330)",
+      "Anticaking agent (551)",
+      "Colour (160c)"
+    ]
+  },
+  {
+    "product_name": "Haldiram's Aloo Bhujia",
+    "ingredients": [
+      "Potato flakes",
+      "Gram flour",
+      "Edible vegetable oil",
+      "Salt",
+      "Spices",
+      "Acidity regulator (330)"
+    ]
+  },
+  {
+    "product_name": "Haldiram's Sev Bhujia",
+    "ingredients": [
+      "Gram flour",
+      "Edible vegetable oil",
+      "Salt",
+      "Spices"
+    ]
+  },
+  {
+    "product_name": "Uncle Chipps Classic Salted",
+    "ingredients": [
+      "Potatoes",
+      "Edible vegetable oil (Palmolein)",
+      "Salt"
+    ]
+  },
+  {
+    "product_name": "Balaji Wafers Simply Salted",
+    "ingredients": [
+      "Potatoes",
+      "Edible vegetable oil",
+      "Salt"
+    ]
+  },
+  {
+    "product_name": "Kissan Fresh Tomato Ketchup",
+    "ingredients": [
+      "Tomato paste",
+      "Sugar",
+      "Salt",
+      "Acidity regulator (260)",
+      "Spices and condiments"
+    ]
+  },
+  {
+    "product_name": "MAGGI Rich Tomato Ketchup",
+    "ingredients": [
+      "Tomato paste",
+      "Sugar",
+      "Salt",
+      "Acidity regulator (260)",
+      "Stabilizer (415)",
+      "Spices and condiments"
+    ]
+  },
+  {
+    "product_name": "Kissan Mixed Fruit Jam",
+    "ingredients": [
+      "Fruit pulp",
+      "Sugar",
+      "Water",
+      "Gelling agent (440)",
+      "Acidity regulator (330)",
+      "Preservative (202)"
+    ]
+  },
+  {
+    "product_name": "Amul Butter",
+    "ingredients": [
+      "Milk fat",
+      "Common salt"
+    ]
+  },
+  {
+    "product_name": "Amul Spray Infant Milk Food",
+    "ingredients": [
+      "Milk solids",
+      "Sugar",
+      "Minerals",
+      "Vitamins"
+    ]
+  },
+  {
+    "product_name": "Nestle Everyday Dairy Whitener",
+    "ingredients": [
+      "Milk solids",
+      "Sugar"
+    ]
+  },
+  {
+    "product_name": "Horlicks Classic Malt",
+    "ingredients": [
+      "Malt extract from barley",
+      "Milk solids",
+      "Sugar",
+      "Minerals",
+      "Vitamins",
+      "Emulsifier (322)"
+    ]
+  },
+  {
+    "product_name": "Boost Energy Drink",
+    "ingredients": [
+      "Malt extract from barley",
+      "Sugar",
+      "Milk solids",
+      "Cocoa powder",
+      "Minerals",
+      "Vitamins",
+      "Emulsifier (322)"
+    ]
+  },
+  {
+    "product_name": "Cadbury Bournvita",
+    "ingredients": [
+      "Sugar",
+      "Malt extract from barley",
+      "Milk solids",
+      "Cocoa powder",
+      "Minerals",
+      "Vitamins",
+      "Emulsifier (322)"
+    ]
+  },
+  {
+    "product_name": "Complan Nutrition and Health Drink",
+    "ingredients": [
+      "Milk solids",
+      "Sugar",
+      "Maltodextrin",
+      "Vegetable oil",
+      "Minerals",
+      "Vitamins",
+      "Emulsifier (322)"
+    ]
+  },
+  {
+    "product_name": "Tata Salt Iodized",
+    "ingredients": [
+      "Iodised salt"
+    ]
+  },
+  {
+    "product_name": "Aashirvaad Select Sharbati Atta",
+    "ingredients": [
+      "Whole wheat flour"
+    ]
+  },
+  {
+    "product_name": "Fortune Sunlite Refined Sunflower Oil",
+    "ingredients": [
+      "Refined sunflower oil"
+    ]
+  },
+  {
+    "product_name": "Fortune Rice Bran Health Oil",
+    "ingredients": [
+      "Refined rice bran oil"
+    ]
+  },
+  {
+    "product_name": "Patanjali Cow Ghee",
+    "ingredients": [
+      "Milk fat"
+    ]
+  },
+  {
+    "product_name": "Amul Pure Ghee",
+    "ingredients": [
+      "Milk fat"
+    ]
+  },
+  {
+    "product_name": "MTR Ready to Eat Paneer Butter Masala",
+    "ingredients": [
+      "Paneer",
+      "Tomato puree",
+      "Onion",
+      "Edible vegetable oil",
+      "Butter",
+      "Cream",
+      "Cashew paste",
+      "Salt",
+      "Spices and condiments",
+      "Acidity regulator (330)",
+      "Preservative (202)"
+    ]
+  },
+  {
+    "product_name": "MTR Ready to Eat Rajma Masala",
+    "ingredients": [
+      "Kidney beans",
+      "Onion",
+      "Tomato",
+      "Edible vegetable oil",
+      "Salt",
+      "Spices and condiments",
+      "Acidity regulator (330)",
+      "Preservative (202)"
+    ]
+  },
+  {
+    "product_name": "MTR Ready to Eat Vegetable Pulao",
+    "ingredients": [
+      "Rice",
+      "Vegetables",
+      "Edible vegetable oil",
+      "Salt",
+      "Spices and condiments",
+      "Acidity regulator (330)",
+      "Preservative (202)"
+    ]
+  },
+  {
+    "product_name": "Knorr Cup Soup Sweet Corn Veg",
+    "ingredients": [
+      "Corn starch",
+      "Salt",
+      "Dehydrated vegetables",
+      "Sugar",
+      "Spices and condiments",
+      "Flavour enhancers (627, 631)",
+      "Acidity regulator (330)"
+    ]
+  },
+  {
+    "product_name": "Knorr Cup Soup Hot and Sour Veg",
+    "ingredients": [
+      "Corn starch",
+      "Salt",
+      "Dehydrated vegetables",
+      "Sugar",
+      "Spices and condiments",
+      "Flavour enhancers (627, 631)",
+      "Acidity regulator (330)"
+    ]
+  },
+  {
+    "product_name": "Ching's Secret Veg Hakka Noodles",
+    "ingredients": [
+      "Wheat flour",
+      "Edible vegetable oil (Palm oil)",
+      "Salt",
+      "Stabilizers (508, 412)",
+      "Acidity regulators (501(i), 500(i))",
+      "Humectant (451(i))"
+    ]
+  },
+  {
+    "product_name": "Paper Boat Aam Panna",
+    "ingredients": [
+      "Water",
+      "Raw mango pulp",
+      "Sugar",
+      "Salt",
+      "Spices",
+      "Acidity regulator (330)"
+    ]
+  },
+  {
+    "product_name": "Paper Boat Jaljeera",
+    "ingredients": [
+      "Water",
+      "Spices and condiments",
+      "Sugar",
+      "Salt",
+      "Lemon juice concentrate",
+      "Acidity regulator (330)"
+    ]
+  },
+  {
+    "product_name": "Real Fruit Power Mango Juice",
+    "ingredients": [
+      "Mango pulp",
+      "Water",
+      "Sugar",
+      "Acidity regulator (330)",
+      "Antioxidant (300)"
+    ]
+  },
+  {
+    "product_name": "Real Fruit Power Mixed Fruit Juice",
+    "ingredients": [
+      "Mixed fruit pulp",
+      "Water",
+      "Sugar",
+      "Acidity regulator (330)",
+      "Antioxidant (300)"
+    ]
+  },
+  {
+    "product_name": "Tropicana 100% Orange Juice",
+    "ingredients": [
+      "Orange juice"
+    ]
+  },
+  {
+    "product_name": "Tropicana Delight Mango Drink",
+    "ingredients": [
+      "Water",
+      "Mango pulp",
+      "Sugar",
+      "Acidity regulator (330)",
+      "Stabilizer (415)",
+      "Antioxidant (300)"
+    ]
+  },
+  {
+    "product_name": "Slice Mango Drink",
+    "ingredients": [
+      "Water",
+      "Mango pulp",
+      "Sugar",
+      "Acidity regulator (330)",
+      "Stabilizer (415)",
+      "Antioxidant (300)"
+    ]
+  },
+  {
+    "product_name": "Maaza Mango Drink",
+    "ingredients": [
+      "Water",
+      "Mango pulp",
+      "Sugar",
+      "Acidity regulator (330)",
+      "Stabilizer (415)",
+      "Antioxidant (300)"
+    ]
+  },
+  {
+    "product_name": "Britannia Little Hearts Biscuits",
+    "ingredients": [
+      "Wheat flour",
+      "Sugar",
+      "Edible vegetable oil (Palm oil)",
+      "Milk solids",
+      "Invert sugar syrup",
+      "Raising agents (503(ii), 500(ii))",
+      "Salt",
+      "Emulsifier (322)",
+      "Artificial flavour (Vanilla)"
+    ]
+  },
+  {
+    "product_name": "Britannia Bourbon Chocolate Cream Biscuits",
+    "ingredients": [
+      "Wheat flour",
+      "Sugar",
+      "Edible vegetable oil (Palm oil)",
+      "Invert sugar syrup",
+      "Cocoa powder",
+      "Milk solids",
+      "Raising agents (503(ii), 500(ii))",
+      "Salt",
+      "Emulsifier (322)",
+      "Artificial flavour (Vanilla)"
+    ]
+  },
+  {
+    "product_name": "Haldiram's Moong Dal",
+    "ingredients": [
+      "Split green gram",
+      "Edible vegetable oil",
+      "Salt"
+    ]
+  },
+  {
+    "product_name": "Haldiram's Navrattan Mixture",
+    "ingredients": [
+      "Gram flour",
+      "Potato",
+      "Edible vegetable oil",
+      "Peanuts",
+      "Raisins",
+      "Salt",
+      "Spices"
+    ]
+  }
+]
